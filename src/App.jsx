@@ -16,7 +16,7 @@ export default function App() {
       <header>
         <div className="header-inner">
           <GitHubLogo />
-          <h1>GitHub Actions Examples</h1>
+          <h1>GitHub Actions Examples Live</h1>
           <p className="subtitle">Common workflow patterns for CI/CD automation</p>
         </div>
       </header>
