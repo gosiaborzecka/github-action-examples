@@ -14,7 +14,7 @@ export default function ExampleCard({ tag, tagVariant, title, description, code 
     <article className={`card`}>
       <div className="card-header">
         <span className={`tag tag-${tagVariant}`}>{tag}</span>
-        <h2>{title}</h2>
+        <h2>{title} 2</h2>
       </div>
       <p className="card-desc">{description}</p>
       <pre><code>{code}</code></pre>
